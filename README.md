@@ -1,16 +1,24 @@
-## Hi there 👋
+# 안녕하세요! 👋
 
-<!--
-**gbshs/gbshs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🏫 가르치는 과목
+
+![Python Programming](https://img.shields.io/badge/Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 💬 한마디
+
+> 오픈소스 짱! 🚀
+
+---
+
+## 📁 수업 자료
+
+- 📚 [GitHub 특강 참고자료](https://github.com/gbshs/github-lecture)
+- 🍴 [Fork 실습 저장소](https://github.com/gbshs/github-lecture-practice)
